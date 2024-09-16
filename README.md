@@ -1,2 +1,2 @@
-# Face_Detection
-A simple project to detect human face provide a square frame for face and eyes
+# Face-Detection-
+A sample code for beginners to detect/recognize face and eyes using OpenCV 
